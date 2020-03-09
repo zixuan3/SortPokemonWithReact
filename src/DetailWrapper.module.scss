@@ -1,0 +1,25 @@
+@mixin circleButton{
+	border-radius: 100px;
+}
+
+.sb {
+	flex: 1 1 10%;
+	padding: 0.5%;
+}
+
+.textWrapper {
+	padding: 0.5%;
+	display: flex;
+	justify-content: space-around;
+}
+
+.buttons {
+	padding-top: 2.5%;
+	padding-bottom: 2.5%;
+	width: 12%;
+	@include circleButton;
+	background: lightblue;
+	color: blue;
+	font-weight: bold;
+	font-size: 150%;
+}

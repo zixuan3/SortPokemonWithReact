@@ -1,0 +1,26 @@
+.GalleryPokemonTable {
+	/*display: flex;
+	justify-content: space-between;*/
+	/*width: 25%;*/
+}
+
+.rows {
+	display: flex;
+	justify-content: space-around;
+  	flex-wrap: wrap;
+}
+
+/*.sb {
+	flex: 1 0 10%;
+	margin: 5px;
+}*/
+
+.row {
+	width: 1%;
+}
+
+.sortClass {
+	padding-top: 0.5%;
+	padding-bottom: 0.5%;
+	font-weight: bold;
+}

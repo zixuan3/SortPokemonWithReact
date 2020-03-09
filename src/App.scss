@@ -1,0 +1,106 @@
+@mixin detailViewTextFont {
+	font-weight: bold;
+	font-size: 150%;
+}
+
+.App {
+  text-align: center;
+}
+
+.Catalog {
+	font-size: 400%;
+	font-weight: bold;
+}
+
+.CatalogWrapper {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+}
+
+.text1 {
+	padding-top: 10%;
+	color: green;
+}
+
+.modal-clicked {
+	display: block;
+	position: fixed;
+  	z-index: 1;
+	top: 50%;
+	left: 50%;
+  	transform: translate(-50%, -50%);
+  	width: 80%;
+	height: 100%;
+  	overflow: auto;
+  	background-color: rgba(0,0,0,0.4);
+	padding-top: 13%;
+	padding-left: 10%;
+	padding-right: 10%;
+}
+
+.modal-flex{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+}
+
+.modal-content {
+	padding-top: 5%;
+	text-align: center;
+  	background-color: #FFF;
+  	margin: auto;
+  	width: 80%;
+	border-radius: 100px;
+}
+
+.modal-text {
+	font-size: 150%;
+	color: rgba(242,133,7,1);
+}
+
+.modal-text-bronze{
+	color: rgba(205,127,50,1);
+	@include detailViewTextFont;
+}
+
+.modal-text-silver{
+	color: rgba(131,131,131,1);
+	padding: 1%;
+	@include detailViewTextFont;
+}
+
+.modal-text-gold{
+	color: rgba(242,133,7,1);
+	padding: 1%;
+	@include detailViewTextFont;
+}
+
+.medals_captions{
+	padding-bottom: 25%;
+	font-size: 110%;
+	font-family: inherit;
+	font-weight: 700;
+	color: rgba(242,133,7,1);
+}
+
+.medal{
+	/*width: 12.5%;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	flex-wrap: wrap;*/
+}
+
+
+
+.modal-content img{
+	width: 20%;
+}
+
+.medals-description{
+	padding-left: 5%;
+	padding-right: 5%;
+	color: rgba(12,145,25,1);
+	text-align: center;
+}

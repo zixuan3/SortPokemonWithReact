@@ -1,0 +1,31 @@
+Little neat Trick to capture click outside React component
+https://medium.com/@pitipatdop/little-neat-trick-to-capture-click-outside-react-component-5604830beb7f
+
+https://medium.com/@pitipatdop/little-neat-trick-to-capture-click-outside-with-react-hook-ba77c37c7e82
+
+setState doesn't update the state immediately
+https://stackoverflow.com/questions/41278385/setstate-doesnt-update-the-state-immediately
+
+react child onclick event doesnt trigger when binding parameters
+https://stackoverflow.com/questions/38770446/react-child-onclick-event-doesnt-trigger-when-binding-parameters
+
+sort objects in an array alphabetically on one property of the array
+https://stackoverflow.com/questions/8900732/sort-objects-in-an-array-alphabetically-on-one-property-of-the-array
+
+Replacing 'componentWillReceiveProps' with 'getDerivedStateFromProps'
+https://medium.com/hackernoon/replacing-componentwillreceiveprops-with-getderivedstatefromprops-c3956f7ce607
+
+react this setState is not a function
+https://stackoverflow.com/questions/31045716/react-this-setstate-is-not-a-function
+
+react radio button onChange event does not bind on first change of radio button
+https://stackoverflow.com/questions/53122280/react-radio-button-onchange-event-does-not-bind-on-first-change-of-radio-button
+
+quick css trick how to center an object exactly in the center
+https://css-tricks.com/quick-css-trick-how-to-center-an-object-exactly-in-the-center/
+
+Input text size CSS
+http://www.tagindex.net/css/form/font_size.html
+
+Typechecking With PropTypes
+https://reactjs.org/docs/typechecking-with-proptypes.html
