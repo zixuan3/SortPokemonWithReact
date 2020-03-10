@@ -15,7 +15,7 @@ pages:
 
   script:
     - npm install
-	- npm install react-router-dom
+    - npm install react-router-dom
     - npm run build
     - mv dist public
 
