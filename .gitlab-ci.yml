@@ -15,6 +15,7 @@ pages:
 
   script:
     - npm install
+    - npm install axios
     - npm run build
     - mv public _public
     - mv build public
