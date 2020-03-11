@@ -16,7 +16,7 @@ pages:
   script:
     - npm install
     - npm install react-router-dom
-	- npm install axios
+    - npm install axios
     - npm run build
     - mv dist public
 
