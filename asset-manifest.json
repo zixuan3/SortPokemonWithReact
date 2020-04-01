@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/zixuan3/SortPokemonWithReact/static/css/main.a4d55b4d.chunk.css",
-    "main.js": "/zixuan3/SortPokemonWithReact/static/js/main.40545332.chunk.js",
-    "main.js.map": "/zixuan3/SortPokemonWithReact/static/js/main.40545332.chunk.js.map",
-    "runtime-main.js": "/zixuan3/SortPokemonWithReact/static/js/runtime-main.a91e342d.js",
-    "runtime-main.js.map": "/zixuan3/SortPokemonWithReact/static/js/runtime-main.a91e342d.js.map",
-    "static/js/2.e22dd7d0.chunk.js": "/zixuan3/SortPokemonWithReact/static/js/2.e22dd7d0.chunk.js",
-    "static/js/2.e22dd7d0.chunk.js.map": "/zixuan3/SortPokemonWithReact/static/js/2.e22dd7d0.chunk.js.map",
-    "index.html": "/zixuan3/SortPokemonWithReact/index.html",
-    "precache-manifest.8d099cdbf1291037cf75a58db417ffb8.js": "/zixuan3/SortPokemonWithReact/precache-manifest.8d099cdbf1291037cf75a58db417ffb8.js",
-    "service-worker.js": "/zixuan3/SortPokemonWithReact/service-worker.js",
-    "static/css/main.a4d55b4d.chunk.css.map": "/zixuan3/SortPokemonWithReact/static/css/main.a4d55b4d.chunk.css.map",
-    "static/js/2.e22dd7d0.chunk.js.LICENSE.txt": "/zixuan3/SortPokemonWithReact/static/js/2.e22dd7d0.chunk.js.LICENSE.txt"
+    "main.css": "/SortPokemonWithReact/static/css/main.a4d55b4d.chunk.css",
+    "main.js": "/SortPokemonWithReact/static/js/main.484dc1bd.chunk.js",
+    "main.js.map": "/SortPokemonWithReact/static/js/main.484dc1bd.chunk.js.map",
+    "runtime-main.js": "/SortPokemonWithReact/static/js/runtime-main.64b96fe9.js",
+    "runtime-main.js.map": "/SortPokemonWithReact/static/js/runtime-main.64b96fe9.js.map",
+    "static/js/2.e22dd7d0.chunk.js": "/SortPokemonWithReact/static/js/2.e22dd7d0.chunk.js",
+    "static/js/2.e22dd7d0.chunk.js.map": "/SortPokemonWithReact/static/js/2.e22dd7d0.chunk.js.map",
+    "index.html": "/SortPokemonWithReact/index.html",
+    "precache-manifest.8ec1d5031a4f268b43d8daddf0ddc689.js": "/SortPokemonWithReact/precache-manifest.8ec1d5031a4f268b43d8daddf0ddc689.js",
+    "service-worker.js": "/SortPokemonWithReact/service-worker.js",
+    "static/css/main.a4d55b4d.chunk.css.map": "/SortPokemonWithReact/static/css/main.a4d55b4d.chunk.css.map",
+    "static/js/2.e22dd7d0.chunk.js.LICENSE.txt": "/SortPokemonWithReact/static/js/2.e22dd7d0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.a91e342d.js",
+    "static/js/runtime-main.64b96fe9.js",
     "static/js/2.e22dd7d0.chunk.js",
     "static/css/main.a4d55b4d.chunk.css",
-    "static/js/main.40545332.chunk.js"
+    "static/js/main.484dc1bd.chunk.js"
   ]
 }
